@@ -1,11 +1,8 @@
-body {
-  padding: 0px;
-  margin: 0px;
+html {
   color: #000;
   background-color: #ffffff;
   font-family:"Noto Sans Japanese"  ;
   max-width: 960px;
-  
 }
 
 /*ナビ*/
